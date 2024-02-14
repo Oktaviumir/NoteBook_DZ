@@ -1,0 +1,11 @@
+
+c
+java:S2259M"FA "NullPointerException" could be thrown; "editUser" is nullable here.(¿ôÄ€8ë™¬ºÚ1
+c
+java:S2259L"FA "NullPointerException" could be thrown; "editUser" is nullable here.(×ğŠË8ê™¬ºÚ1
+n
+java:S2095{"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Åùÿÿÿÿ8²õŞ¸Ú1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÙõŞ¸Ú1
+X	java:S125D"<This block of commented-out lines of code should be removed.(Šöş8š¬ºÚ1
+L	java:S106^"+Replace this use of System.out by a logger.(ûÀù„ûÿÿÿÿ8öŞ¸Ú1
+M	java:S106š"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ØöŞ¸Ú1

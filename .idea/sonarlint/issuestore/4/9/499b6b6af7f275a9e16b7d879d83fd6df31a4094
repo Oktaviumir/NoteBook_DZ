@@ -1,0 +1,13 @@
+
+z	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ëÄÛùÿÿÿÿ8ÅÅŞ»Ú1
+G	java:S106$"+Replace this use of System.out by a logger.(Ø¼¢ƒ8ÊÅŞ»Ú1
+L	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÌÅŞ»Ú1
+G	java:S106+"+Replace this use of System.out by a logger.(ÿò÷ö8ÏÅŞ»Ú1
+G	java:S106:"+Replace this use of System.out by a logger.(ÌË§„8ÛÅŞ»Ú1
+R
+java:S1128"0Remove this unused import 'util.UserValidation'.(º“¢”ÿÿÿÿÿ8ëûá»Ú1
+Q
+java:S1128	"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8•üá»Ú1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¦üá»Ú1
